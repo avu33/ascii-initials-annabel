@@ -1,0 +1,17 @@
+# Annabel Vu
+# I learned how to drive in a stick shift car!
+print("  A  ")
+print(" A A ")
+print("A   A")
+print("AAAAA")
+print("A   A")
+print("A   A")
+print("A   A")
+print(" ")
+print("V   V")
+print("V   V")
+print("V   V")
+print("V   V")
+print("V   V")
+print(" V V ")
+print("  V  ")
